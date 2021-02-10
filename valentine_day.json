@@ -1,5 +1,5 @@
 {
-"banner_ads":0,
-  "inter_ads":0,
-  "noti_interval":3600000000
+"banner_ads":1,
+  "inter_ads":1,
+  "noti_interval":18000000
 }
