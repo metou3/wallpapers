@@ -1,5 +1,7 @@
 {
 "banner_ads":1,
   "inter_ads":1,
-  "noti_interval":86400000
+  "noti_interval":86400000,
+  "app_open_ads":1,
+ "show_open_ads_after_N_times": 3
 }
