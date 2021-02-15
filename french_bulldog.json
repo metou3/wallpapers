@@ -2,7 +2,7 @@
 "banner_ads":1,
   "inter_ads":1,
   "native_ads":1,
-  "noti_interval":86400000,
+  "noti_interval":900000,
   "app_open_ads":1,
  "show_open_ads_after_N_times": 3,
   "remove_ads_price": "5usd_remove_ads"
