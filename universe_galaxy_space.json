@@ -1,7 +1,12 @@
-{"banner_ads":1,
+{
+  "banner_ads":1,
   "inter_ads":1,
   "native_ads":1,
   "noti_interval":3600000,
-"key":"13799911-62a795ec2e29137d307467722",
-"query":"universe",
-"url":"https://pixabay.com"}
+  "key":"13799911-62a795ec2e29137d307467722",
+  "query":"universe",
+  "url":"https://pixabay.com",
+  "app_open_ads":1,
+  "show_open_ads_after_N_times":3,
+  "remove_ads_price":"3.99usd_remove_ads"
+}
